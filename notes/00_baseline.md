@@ -1,4 +1,4 @@
-## Scope of Problem
+# Scope of Problem
 The idea here is that we are provided with data on <u>all</u> 144 compounds in T cells (TODO: add subtypes) and NK cells, but only 10% in Myeloid cells and B cells. We want to be able to predict drug effects in Myeloid cells and B cells. In another words, we want **cross-cell-type transfer**.
 
 ### Determining Test Splits
